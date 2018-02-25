@@ -14,7 +14,7 @@ A command line interface for conflict-free ids generator based on Twitter Snowfl
 
 ## TODO
 
-[ ] Configurable Node/`datacenter` identifier
+- [ ] Configurable Node/`datacenter` identifier
 
 ## Author
 
